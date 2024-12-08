@@ -53,6 +53,6 @@ Este projeto tem como objetivo analisar se as analises estão sendo feitas no ho
 
 ## Diagrama
 
-![Diagrama](https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1#HAnderson-olv%2Fcresol-alertas%2Fmain%2Fdocs%2Fcresol.drawio)
+![Descrição do Fluxograma](/docs/cresol.drawio.png)
 
 ---

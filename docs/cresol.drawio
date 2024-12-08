@@ -1,20 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Página-1" id="F458EmQWVKPjQZFELhoP">
-    <mxGraphModel dx="819" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1646" dy="469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_PxMtBCPO3ROkF5QjthU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-1" target="_PxMtBCPO3ROkF5QjthU-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-1" target="_PxMtBCPO3ROkF5QjthU-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="315" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="_PxMtBCPO3ROkF5QjthU-1" value="Início" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="30" y="270" width="80" height="80" as="geometry" />
+          <mxGeometry x="-130" y="270" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="_PxMtBCPO3ROkF5QjthU-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-2" target="_PxMtBCPO3ROkF5QjthU-4">
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-2" target="_PxMtBCPO3ROkF5QjthU-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_PxMtBCPO3ROkF5QjthU-2" value="Verificar chamado no jira com login e senha ou via API." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="10" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_PxMtBCPO3ROkF5QjthU-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-4" target="_PxMtBCPO3ROkF5QjthU-9">
           <mxGeometry relative="1" as="geometry" />
@@ -32,8 +34,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_PxMtBCPO3ROkF5QjthU-4" value="Chamado localizado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="270" width="80" height="80" as="geometry" />
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-4" value="Novo chamado localizado?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="265" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_PxMtBCPO3ROkF5QjthU-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-9" target="_PxMtBCPO3ROkF5QjthU-15">
           <mxGeometry relative="1" as="geometry" />
@@ -44,7 +46,12 @@
         <mxCell id="_PxMtBCPO3ROkF5QjthU-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-11" target="_PxMtBCPO3ROkF5QjthU-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_PxMtBCPO3ROkF5QjthU-11" value="Verificar se o chamado esta sendo feito conforme horário padrão." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-11" target="_PxMtBCPO3ROkF5QjthU-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-11" value="Verificar se o chamado foi feito após 30min de sla do horário padrão." style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="550" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_PxMtBCPO3ROkF5QjthU-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-15" target="_PxMtBCPO3ROkF5QjthU-17">
@@ -122,6 +129,14 @@
             <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-31" target="_PxMtBCPO3ROkF5QjthU-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-67" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_PxMtBCPO3ROkF5QjthU-66">
+          <mxGeometry x="-0.0952" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="_PxMtBCPO3ROkF5QjthU-31" value="Opção selecionada?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="270" width="80" height="80" as="geometry" />
         </mxCell>
@@ -174,6 +189,35 @@
           <mxGeometry x="-0.9184" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-65" target="_PxMtBCPO3ROkF5QjthU-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-65" value="Encaminhar alerta no grupo 12x36" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-69" value="Monitoramento Diário Rotinas de Produção - MODELO" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="355" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-74" target="_PxMtBCPO3ROkF5QjthU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-78" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" connectable="0" parent="_PxMtBCPO3ROkF5QjthU-76">
+          <mxGeometry x="-0.1837" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-74" target="_PxMtBCPO3ROkF5QjthU-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-74" value="Chamado ou alerta em andamento?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-79" target="_PxMtBCPO3ROkF5QjthU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-79" value="Continua do ponto anterior" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

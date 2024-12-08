@@ -1,0 +1,4 @@
+.venv
+.env
+*_
+logs/logs.txt

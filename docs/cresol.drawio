@@ -207,7 +207,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_PxMtBCPO3ROkF5QjthU-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-74" target="_PxMtBCPO3ROkF5QjthU-79">
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-74" target="_PxMtBCPO3ROkF5QjthU-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_PxMtBCPO3ROkF5QjthU-74" value="Chamado ou alerta em andamento?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -217,7 +217,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_PxMtBCPO3ROkF5QjthU-79" value="Continua do ponto anterior" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="120" height="60" as="geometry" />
+          <mxGeometry x="414" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="_PxMtBCPO3ROkF5QjthU-85" target="_PxMtBCPO3ROkF5QjthU-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_PxMtBCPO3ROkF5QjthU-85" value="Verificar se o chamado já não esta todo selecionado fora do horário." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

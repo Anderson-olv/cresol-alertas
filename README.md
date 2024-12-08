@@ -2,9 +2,7 @@
 
 ## Descrição
 
-Este projeto tem como objetivo automatizar a gestão de chamados através de um script Python. O sistema acessará uma planilha compartilhada, verificará se existe um chamado registrado em uma linha e coluna específica e realizará ações baseadas na análise dos dados encontrados. 
-
-Se um chamado já estiver aberto, o sistema analisará as informações preenchidas. Caso não exista, ele criará um novo chamado e realizará as etapas necessárias para sua conclusão.
+Este projeto tem como objetivo analisar se as analises estão sendo feitas no horário pré-acordado junto ao time.
 
 ---
 
@@ -49,3 +47,12 @@ Se um chamado já estiver aberto, o sistema analisará as informações preenchi
 │   └── activity.log     # Registro de logs do sistema
 ├── README.md            # Documentação do projeto
 └── requirements.txt     # Bibliotecas e dependências do Python
+```
+
+---
+
+## Diagrama
+
+![Diagrama](https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1#HAnderson-olv%2Fcresol-alertas%2Fmain%2Fdocs%2Fcresol.drawio)
+
+---
